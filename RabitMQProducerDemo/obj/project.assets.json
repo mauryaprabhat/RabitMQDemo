@@ -112,9 +112,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\INPRMAU\\source\\repos\\RabitMQDemo\\RabitMQProducerDemo\\RabitMQProducerDemo.csproj",
-      "projectName": "RabitMQProducerDemo",
-      "projectPath": "C:\\Users\\INPRMAU\\source\\repos\\RabitMQDemo\\RabitMQProducerDemo\\RabitMQProducerDemo.csproj",
+      "projectUniqueName": "C:\\Users\\INPRMAU\\source\\repos\\RabitMQDemo\\RabitMQProducerDemo\\RabbitMQProducerDemo.csproj",
+      "projectName": "RabbitMQProducerDemo",
+      "projectPath": "C:\\Users\\INPRMAU\\source\\repos\\RabitMQDemo\\RabitMQProducerDemo\\RabbitMQProducerDemo.csproj",
       "packagesPath": "C:\\Users\\INPRMAU\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\INPRMAU\\source\\repos\\RabitMQDemo\\RabitMQProducerDemo\\obj\\",
       "projectStyle": "PackageReference",

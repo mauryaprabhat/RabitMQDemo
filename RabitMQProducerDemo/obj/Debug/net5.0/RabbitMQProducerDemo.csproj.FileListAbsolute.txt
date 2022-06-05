@@ -1,0 +1,17 @@
+C:\Users\INPRMAU\source\repos\RabitMQDemo\RabitMQProducerDemo\bin\Debug\net5.0\RabbitMQProducerDemo.exe
+C:\Users\INPRMAU\source\repos\RabitMQDemo\RabitMQProducerDemo\bin\Debug\net5.0\RabbitMQProducerDemo.deps.json
+C:\Users\INPRMAU\source\repos\RabitMQDemo\RabitMQProducerDemo\bin\Debug\net5.0\RabbitMQProducerDemo.runtimeconfig.json
+C:\Users\INPRMAU\source\repos\RabitMQDemo\RabitMQProducerDemo\bin\Debug\net5.0\RabbitMQProducerDemo.runtimeconfig.dev.json
+C:\Users\INPRMAU\source\repos\RabitMQDemo\RabitMQProducerDemo\bin\Debug\net5.0\RabbitMQProducerDemo.dll
+C:\Users\INPRMAU\source\repos\RabitMQDemo\RabitMQProducerDemo\bin\Debug\net5.0\ref\RabbitMQProducerDemo.dll
+C:\Users\INPRMAU\source\repos\RabitMQDemo\RabitMQProducerDemo\bin\Debug\net5.0\RabbitMQProducerDemo.pdb
+C:\Users\INPRMAU\source\repos\RabitMQDemo\RabitMQProducerDemo\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\INPRMAU\source\repos\RabitMQDemo\RabitMQProducerDemo\obj\Debug\net5.0\RabbitMQProducerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INPRMAU\source\repos\RabitMQDemo\RabitMQProducerDemo\obj\Debug\net5.0\RabbitMQProducerDemo.AssemblyInfoInputs.cache
+C:\Users\INPRMAU\source\repos\RabitMQDemo\RabitMQProducerDemo\obj\Debug\net5.0\RabbitMQProducerDemo.AssemblyInfo.cs
+C:\Users\INPRMAU\source\repos\RabitMQDemo\RabitMQProducerDemo\obj\Debug\net5.0\RabbitMQProducerDemo.csproj.CoreCompileInputs.cache
+C:\Users\INPRMAU\source\repos\RabitMQDemo\RabitMQProducerDemo\obj\Debug\net5.0\RabbitMQProducerDemo.csproj.CopyComplete
+C:\Users\INPRMAU\source\repos\RabitMQDemo\RabitMQProducerDemo\obj\Debug\net5.0\RabbitMQProducerDemo.dll
+C:\Users\INPRMAU\source\repos\RabitMQDemo\RabitMQProducerDemo\obj\Debug\net5.0\ref\RabbitMQProducerDemo.dll
+C:\Users\INPRMAU\source\repos\RabitMQDemo\RabitMQProducerDemo\obj\Debug\net5.0\RabbitMQProducerDemo.pdb
+C:\Users\INPRMAU\source\repos\RabitMQDemo\RabitMQProducerDemo\obj\Debug\net5.0\RabbitMQProducerDemo.genruntimeconfig.cache

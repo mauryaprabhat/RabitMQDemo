@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31501.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabitMQProducerDemo", "RabitMQProducerDemo\RabitMQProducerDemo.csproj", "{CE3AE9C1-95D8-4099-B3E5-38B42890EEE1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQProducerDemo", "RabitMQProducerDemo\RabbitMQProducerDemo.csproj", "{CE3AE9C1-95D8-4099-B3E5-38B42890EEE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
